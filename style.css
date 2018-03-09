@@ -1,38 +1,118 @@
-.container{
+body{
 	font-family: Arial;
 }
 
-.navbar{
-	position: relative;
-	height: 10px;
-	display: flex;
-	right: 0;
-	align-items: center;
-	justify-content: center;
-}
+/*////////langugae chanche//////////////*/
 
-.aligment-right{
-	
-	margin: 0 20px;
-	position: absolute;
-}
 
-li{
-	font-family: sans-serif;
+p{
 	font-size: 12px;
-	margin: 0 10px;
-	display: inline;
-	list-style: none;
+	margin: auto auto auto -71px;
+	padding-top: 25px;
 }
+
+/*///////// img  search bar/////////////////*/
+
+.img {
+ 	margin: auto auto auto 464px;
+	width: 400px;
+	padding-top: 100px;
+}
+
+
+
+.form{
+	margin: auto auto auto 456px;
+	width: 450px;
+	padding-top: 20px;
+}
+
+
+input{
+	height: 40px;
+	width: 500px;
+}
+
+/*//////////// Ul Tags ///////////*/
+
+li {
+	float: right;
+	display: inline;
+	font-size: 12px;
+}
+a{
+	padding: 8px;
+}
+
+/*///////// Buttons /////////////*/
 
 .Sign-in {
 	background-color: #4888f0;
 	color: #ffffff;
 	padding: 5px 10px;
+	float: right;
+	display: inline;
+	font-weight: bold;
 	
 }
 
-.img{
-	margin-top:120px;
-	align-items: center; 
+.search-button{
+	background-color: #f2f2f2;
+	border:none;
+	color: #000000;
+	padding: 10px;
+	font-weight: bold;
+	font-size: 11px;
 }
+
+.button{
+	margin: 0 auto auto 590px;
+    width: 475px;
+    padding-top: 20px;
+
+}
+
+
+
+/*/////////////footer///////////*/
+
+
+.foot{
+	background-color: #f2f2f2;
+	margin-top: 250px;
+	padding-top: 2px;
+	padding-bottom: 15px;
+}
+
+h4{
+	font-weight: normal;
+	margin-left: 35px;
+	margin-top: 5px;
+	padding-top: 5px;
+	color:#7d90a2;
+}
+
+.r-foot{
+	float: right;
+	display: inline;
+	font-size: 12px;
+}
+
+.p-foot{
+	padding-top: 0px;
+	margin-left: 20px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
